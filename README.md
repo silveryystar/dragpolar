@@ -1,5 +1,5 @@
 # Drag-Polar Plot Generator
-Generate drag-polar plot via XFOIL.
+Generate drag-polar plots via XFOIL.
 
 # Setup
 1. Install Python at https://www.python.org/downloads/.
