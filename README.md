@@ -1,4 +1,4 @@
-# Drag Polar
+# Drag-Polar Plot Generator
 Generate drag-polar plot via XFOIL.
 
 # Setup
