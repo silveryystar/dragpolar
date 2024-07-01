@@ -30,7 +30,7 @@ Then, `Final Angle of Attack:` will print.
 Enter the angle of attack (degrees) at which to end data generation.
 Lastly, `Increment Angle of Attack:` will print.
 Enter the angle of attack (degrees) step-size between the initial and final angles.
-This input is equivalent to "PACC"'s "Aseq" command in XFOIL.
+This input is equivalent to "PACC"'s "ASEQ" command in XFOIL.
 
 # Example
 Entering the following inputs: `NACA0015` for `Airfoil:`, `160` for `Panels:`, `100` for `Iterations:`, `1e6` for `Reynold's Number:`, `0` for `Initial Angle of Attack:`, `90` for `Final Angle of Attack:`, and `1` for `Increment Angle of Attack:` results in *polar.dat*, *Figure_0.png*, and *Figure_1.png*.
